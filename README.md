@@ -54,12 +54,14 @@ The respective model with respective coefficients generated.
 
 Results
 ~~~~
-Check out our report and presentation slides or video to know more....
+Check out our report and presentation slides or video to know more....http://www.ee.columbia.edu/~cylin/course/bigdata/projects/
 ~~~~
 
+[Proposal Slides](Documents/Project_Proposal_ck2749_ys2840_wz2363_201612-78)<br />
+
 [Presentation](/Documents/Final_Project_ck2749_ys2840_wz2363_201612-78.pdf)<br />
-			<br />
+			
 Report<br />
-			<br />
+			
 [Videos](https://youtu.be/Nf1uy_nruxg)<br />
 			<br />
