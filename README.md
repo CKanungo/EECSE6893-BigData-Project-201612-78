@@ -57,7 +57,7 @@ Results
 Check out our report and presentation slides or video to know more....
 ~~~~
 
-Presentation<br />
+[Presentation](/Documents/Final_Project_ck2749_ys2840_wz2363_201612-78.pdf)<br />
 			<br />
 Report<br />
 			<br />
