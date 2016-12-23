@@ -36,7 +36,7 @@ Data<br />
 Code Description<br />
 Scala:
 ~~~~
-
+The code is used to to generate the respective temperature and sea level prediction model and the platform was Spark.It utilizes ML-Lib Library.
 ~~~~
 MATLAB:
 ~~~~
@@ -49,7 +49,7 @@ This code will take in the csv file of NOAA Climatology Data and will generate t
 
 Model Generated:
 ~~~~
-
+The respective model with respective coefficients generated.
 ~~~~
 
 Results
