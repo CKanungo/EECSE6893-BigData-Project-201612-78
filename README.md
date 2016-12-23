@@ -63,5 +63,5 @@ Check out our report and presentation slides or video to know more....http://www
 			
 [Report](/Documents/Final_Report_ck2749_ys2840_wz2363_201612-78.pdf)<br />
 			
-[Videos](https://youtu.be/Nf1uy_nruxg)<br />
+[Video](https://youtu.be/Nf1uy_nruxg)<br />
 			<br />
